@@ -1,0 +1,4 @@
+C:\Users\eahscs\Desktop\Ch-4\chapt ass\Table Of Squares\bin\Debug\Table Of Squares.exe
+C:\Users\eahscs\Desktop\Ch-4\chapt ass\Table Of Squares\bin\Debug\Table Of Squares.pdb
+C:\Users\eahscs\Desktop\Ch-4\chapt ass\Table Of Squares\obj\x86\Debug\Table Of Squares.exe
+C:\Users\eahscs\Desktop\Ch-4\chapt ass\Table Of Squares\obj\x86\Debug\Table Of Squares.pdb
