@@ -9,8 +9,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Arg, put in ye most treasured numbers up to 999, and no decimals you fuck");
-            int total;
+            Console.WriteLine("Arg, put in ye most treasured numbers up to 999, and no decimals you mouth breather");
+            int total = 0;
             while (true)
             {
                 int i = Convert.ToInt32(Console.ReadLine());

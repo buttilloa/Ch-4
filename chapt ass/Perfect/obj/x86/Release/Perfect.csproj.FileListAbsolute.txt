@@ -1,0 +1,4 @@
+C:\Users\eahscs\Desktop\Ch-4\chapt ass\Perfect\bin\Release\Perfect.exe
+C:\Users\eahscs\Desktop\Ch-4\chapt ass\Perfect\bin\Release\Perfect.pdb
+C:\Users\eahscs\Desktop\Ch-4\chapt ass\Perfect\obj\x86\Release\Perfect.exe
+C:\Users\eahscs\Desktop\Ch-4\chapt ass\Perfect\obj\x86\Release\Perfect.pdb

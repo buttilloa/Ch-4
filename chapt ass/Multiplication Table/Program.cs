@@ -9,10 +9,10 @@ namespace Multiplication_Table
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i <= 3; i++)
+            for (int i = 0; i <= 10; i++)
             {
                 Console.Write(i + " ");
-                for (int j = 1; j <= 3; j++)
+                for (int j = 1; j <= 10; j++)
                 {
                     if (i > 0) 
                         Console.Write(i * j + " ");
