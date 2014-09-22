@@ -7,20 +7,26 @@ namespace Perfect
        
         static void Main(string[] args)
         {
-              int Perf = 1,loop =1, total = 0;
+              int Perf = 0,loop =1, total = 0;
             while (Perf<=500)
             {
                 while (loop <= Perf)
                 {
+                   
                     if (Perf % loop == 0)
-                     total += loop; 
-                    
+                     total += loop;
+
                     if (total == Perf)
-                    Console.WriteLine(total);
-                    //Console.WriteLine(loop);
+                    {
+                        Console.WriteLine(total);
+                       
+                        //break;
+                    }
+                    
                     loop++;
                 }
-                loop = 1;
+                loop = 1; 
+                total = 0;
                Perf++;
            }
         }
